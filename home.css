@@ -1,0 +1,9 @@
+.phone {
+  height: 500px !important;
+}
+.navbar-brand {
+    color: cadetblue;
+}
+header {
+    height: fit-content;
+}
