@@ -1,9 +1,28 @@
 .phone {
   height: 500px !important;
 }
-.navbar-brand {
-    color: cadetblue;
+.navbar-dark {
+  background-color: #2672af !important;
 }
-header {
-    height: fit-content;
+.btn:hover, .btn:active {
+  border: 1px solid white;
+}
+.masthead {
+  padding: 2%;
+}
+.description {
+  color: white;
+}
+.text-blue {
+  color: #2672af;
+}
+.card-icon {
+  margin-top: 1px;
+  color: #2672af;
+  width: 100%;
+  max-height: 30px;
+}
+div .clean-card {
+  border-top: 2px solid #2672af;
+  height: 100%;
 }
